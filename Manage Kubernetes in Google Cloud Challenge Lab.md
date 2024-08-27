@@ -1,6 +1,6 @@
-# Manage Kubernetes in Google Cloud: Challenge Lab || [GSP510](https://www.cloudskillsboost.google/focuses/58179?parent=catalog) ||
+# Manage Kubernetes in Google Cloud: Challenge Lab 
 
-## Solution [here](https://youtu.be/SN3Wg2ej15I)
+## Solution 
 
 ### Run the following Commands in CloudShell
 
@@ -20,9 +20,9 @@ sudo chmod +x gsp510.sh
 ./gsp510.sh
 ```
 
-### Congratulations 🎉 for completing the Lab !
+### Congratulations 🎉 
 
-##### *You Have Successfully Demonstrated Your Skills And Determination.*
+##### You have successfully completed the lab on Manage Kubernetes in Google Cloud: Challenge Lab
 
 #### *Well done!*
 
